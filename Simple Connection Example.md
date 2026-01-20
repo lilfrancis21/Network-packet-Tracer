@@ -1,4 +1,4 @@
-# For this Example; I will demonstrate simple connections such as PC to PC and PC - Switch - PC
+# For this Example; I will demonstrate simple connections such as PC to PC and PC - Switch - PC Forwarding IP Datagrams
 
 
 PC - PC Connection (Simple Tropology)
