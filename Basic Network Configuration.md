@@ -9,3 +9,12 @@ This both organized the ip address into different section base on their ip addre
 First floor Tech PC IPV4 address and subnet Mask
 <img width="884" height="721" alt="image" src="https://github.com/user-attachments/assets/88a9cf08-ef7b-40a8-822d-a2c1559fcbfa" />
 
+
+Floor 2 Manager PC Subnet and Ipv4 address
+
+<img width="880" height="723" alt="image" src="https://github.com/user-attachments/assets/3ffba3a7-07a6-4435-a5e6-7bdb8b7754f3" />
+
+
+Floor 3 Directors PC subnet and IPv4 address
+
+<img width="878" height="717" alt="image" src="https://github.com/user-attachments/assets/2d12b5f4-8f16-4347-9fd1-1d4e0d480fc3" />
